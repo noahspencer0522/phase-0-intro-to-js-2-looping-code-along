@@ -162,7 +162,7 @@ function wrapGifts(gifts) {
 }
 
 wrapGifts(gifts);
-```
+``
 
 We started our counter, `i`, at `0` because arrays have zero-based indexes. Our
 condition states that we should run the code in the loop body while `i` is less
